@@ -19,9 +19,9 @@ export const features = [
   },
   {
     icon: <Fingerprint />,
-    text: "Areweave community in one place",
+    text: "Arweave community in one place",
     description:
-      "Connect with different Areweave communities in one place.",
+      "Connect with different Arweave communities in one place.",
   },
   {
     icon: <ShieldHalf />,
@@ -39,7 +39,7 @@ export const features = [
     icon: <PlugZap />,
     text: "Collaboration.",
     description:
-      "Easily collaborate with other ecosystem members",
+      "Easily collaborate with other Ecosystem members",
   },
   {
     icon: <GlobeLock />,
